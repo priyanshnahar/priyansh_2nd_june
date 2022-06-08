@@ -1,7 +1,7 @@
 var name = "priyansh";
 var a = [1, 2, 3, "priyansh", true, false];
 
-var ravi = {
+var priyansh = {
   name: "priyansh",
   age: 23,
   graduation: "BJMC",
