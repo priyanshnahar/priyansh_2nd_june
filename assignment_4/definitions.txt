@@ -1,0 +1,20 @@
+Global variables :-
+* Usable and alive throughout page or entire script,
+* You can use it anywhere in the script, you can use it at the top of the program or outside of a function
+
+
+Local scope variables:- 
+* when you define a variable inside a function that variable is a local variable to that function 
+* you can access local variable within the function only
+
+var:- 
+* var is a functonal scope 
+* it can redclared and also you can update 
+
+let:- 
+* you cannot redclare let, but you can update it 
+* you cannot access without initialzation
+
+const:-
+* you can not change the value declared inside the const function as it is constant
+* you cannot update or redeclare the value
