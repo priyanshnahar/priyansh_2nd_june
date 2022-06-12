@@ -1,0 +1,11 @@
+What are API's :-
+API stands for APPLICATION PROGRAMMING INTERFACE, 
+API plays a role of mediotor between two system which allows to talk to each other 
+
+TYPES OF API:-
+ 1.GET:- To retrieve the current data from a data source
+ 2.POST:- TO add the data 
+ 3.PUT:- To update and send the data to a server 
+ 4.DELETE:- To delete the resource from the server,
+ 5.PATCH:- To modify a part of a resource,you only need to pass in the data that you want to update
+
