@@ -15,4 +15,4 @@ var isPalindrome = function (s) {
   return str.split("").reverse().join("") === str;
 };
 
-console.log(s);
+
